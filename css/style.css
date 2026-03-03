@@ -667,7 +667,7 @@ main{
     display: inline-flex;
     align-items: center;
     gap: 8px;
-    font-family: var(--secondary-font);
+    font-family: var(--script-font);
     font-size: var(--title-fs);
     text-align: center;
 }
